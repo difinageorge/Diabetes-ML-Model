@@ -12,7 +12,7 @@ Build and evaluate a machine learning model capable of binary classification (Di
 
 ## 🛠️ Technologies Used
 
-- Python 3.x  
+- Python 
 - Jupyter Notebook  
 - NumPy  
 - Pandas  
