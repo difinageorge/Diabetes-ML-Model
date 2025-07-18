@@ -28,14 +28,14 @@ Build and evaluate a machine learning model capable of binary classification (Di
 ## 📁 Project Structure
 
 
-
+```
 diabetes-prediction/
 │
 ├── diabetes\_prediction.ipynb     # Jupyter Notebook with the full ML pipeline
 ├── diabetes.csv                  # Dataset used for training/testing
 ├── README.md                     # Project documentation
 
-
+```
 
 ---
 
